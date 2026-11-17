@@ -1,0 +1,32 @@
+circuit_key,circuit_short_name,country_code,country_key,country_name,date_end,date_start,gmt_offset,is_cancelled,location,meeting_key,session_key,session_name,session_type,year
+10,Melbourne,AUS,5,Australia,2026-03-08 06:00:00+00:00,2026-03-08 04:00:00+00:00,11:00:00,False,Melbourne,1279,11234,Race,Race,2026
+49,Shanghai,CHN,53,China,2026-03-14 04:00:00+00:00,2026-03-14 03:00:00+00:00,08:00:00,False,Shanghai,1280,11240,Sprint,Race,2026
+49,Shanghai,CHN,53,China,2026-03-15 09:00:00+00:00,2026-03-15 07:00:00+00:00,08:00:00,False,Shanghai,1280,11245,Race,Race,2026
+46,Suzuka,JPN,4,Japan,2026-03-29 07:00:00+00:00,2026-03-29 05:00:00+00:00,09:00:00,False,Suzuka,1281,11253,Race,Race,2026
+63,Sakhir,BRN,36,Bahrain,2026-04-12 17:00:00+00:00,2026-04-12 15:00:00+00:00,03:00:00,True,Sakhir,1282,11261,Race,Race,2026
+149,Jeddah,KSA,153,Saudi Arabia,2026-04-19 19:00:00+00:00,2026-04-19 17:00:00+00:00,03:00:00,True,Jeddah,1283,11269,Race,Race,2026
+151,Miami,USA,19,United States,2026-05-02 17:00:00+00:00,2026-05-02 16:00:00+00:00,-04:00:00,False,Miami Gardens,1284,11275,Sprint,Race,2026
+151,Miami,USA,19,United States,2026-05-03 19:00:00+00:00,2026-05-03 17:00:00+00:00,-04:00:00,False,Miami Gardens,1284,11280,Race,Race,2026
+23,Montreal,CAN,46,Canada,2026-05-23 17:00:00+00:00,2026-05-23 16:00:00+00:00,-04:00:00,False,Montréal,1285,11286,Sprint,Race,2026
+23,Montreal,CAN,46,Canada,2026-05-24 22:00:00+00:00,2026-05-24 20:00:00+00:00,-04:00:00,False,Montréal,1285,11291,Race,Race,2026
+22,Monte Carlo,MON,114,Monaco,2026-06-07 15:00:00+00:00,2026-06-07 13:00:00+00:00,02:00:00,False,Monte Carlo,1286,11299,Race,Race,2026
+15,Catalunya,ESP,1,Spain,2026-06-14 15:00:00+00:00,2026-06-14 13:00:00+00:00,02:00:00,False,Barcelona,1287,11307,Race,Race,2026
+19,Spielberg,AUT,17,Austria,2026-06-28 15:00:00+00:00,2026-06-28 13:00:00+00:00,02:00:00,False,Spielberg,1288,11315,Race,Race,2026
+2,Silverstone,GBR,2,United Kingdom,2026-07-04 12:00:00+00:00,2026-07-04 11:00:00+00:00,01:00:00,False,Silverstone,1289,11321,Sprint,Race,2026
+2,Silverstone,GBR,2,United Kingdom,2026-07-05 16:00:00+00:00,2026-07-05 14:00:00+00:00,01:00:00,False,Silverstone,1289,11326,Race,Race,2026
+7,Spa-Francorchamps,BEL,16,Belgium,2026-07-19 15:00:00+00:00,2026-07-19 13:00:00+00:00,02:00:00,False,Spa-Francorchamps,1290,11334,Race,Race,2026
+4,Hungaroring,HUN,14,Hungary,2026-07-26 15:00:00+00:00,2026-07-26 13:00:00+00:00,02:00:00,False,Budapest,1291,11342,Race,Race,2026
+55,Zandvoort,NED,133,Netherlands,2026-08-22 11:00:00+00:00,2026-08-22 10:00:00+00:00,02:00:00,False,Zandvoort,1292,11348,Sprint,Race,2026
+55,Zandvoort,NED,133,Netherlands,2026-08-23 15:00:00+00:00,2026-08-23 13:00:00+00:00,02:00:00,False,Zandvoort,1292,11353,Race,Race,2026
+39,Monza,ITA,13,Italy,2026-09-06 15:00:00+00:00,2026-09-06 13:00:00+00:00,02:00:00,False,Monza,1293,11361,Race,Race,2026
+153,Madring,ESP,1,Spain,2026-09-13 15:00:00+00:00,2026-09-13 13:00:00+00:00,02:00:00,False,Madrid,1294,11369,Race,Race,2026
+144,Baku,AZE,30,Azerbaijan,2026-09-26 13:00:00+00:00,2026-09-26 11:00:00+00:00,04:00:00,False,Baku,1295,11377,Race,Race,2026
+12,Kuala Lumpur,BRN,36,Bahrain,2026-10-04 09:00:00+00:00,2026-10-04 07:00:00+00:00,08:00:00,False,Kuala Lumpur,1308,11731,Race,Race,2026
+61,Singapore,SGP,157,Singapore,2026-10-10 09:30:00+00:00,2026-10-10 09:00:00+00:00,08:00:00,False,Marina Bay,1296,11383,Sprint,Race,2026
+61,Singapore,SGP,157,Singapore,2026-10-11 14:00:00+00:00,2026-10-11 12:00:00+00:00,08:00:00,False,Marina Bay,1296,11388,Race,Race,2026
+9,Austin,USA,19,United States,2026-10-25 22:00:00+00:00,2026-10-25 20:00:00+00:00,-05:00:00,False,Austin,1297,11396,Race,Race,2026
+65,Mexico City,MEX,8,Mexico,2026-11-01 22:00:00+00:00,2026-11-01 20:00:00+00:00,-06:00:00,False,Mexico City,1298,11404,Race,Race,2026
+14,Interlagos,BRA,10,Brazil,2026-11-08 19:00:00+00:00,2026-11-08 17:00:00+00:00,-03:00:00,False,São Paulo,1299,11412,Race,Race,2026
+152,Las Vegas,USA,19,United States,2026-11-22 06:00:00+00:00,2026-11-22 04:00:00+00:00,-08:00:00,False,Las Vegas,1300,11420,Race,Race,2026
+150,Lusail,QAT,149,Qatar,2026-11-29 18:00:00+00:00,2026-11-29 16:00:00+00:00,03:00:00,False,Lusail,1301,11428,Race,Race,2026
+70,Yas Marina Circuit,UAE,21,United Arab Emirates,2026-12-06 15:00:00+00:00,2026-12-06 13:00:00+00:00,04:00:00,False,Yas Marina,1302,11436,Race,Race,2026
